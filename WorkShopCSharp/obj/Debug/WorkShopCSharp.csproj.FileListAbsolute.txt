@@ -1,0 +1,10 @@
+c:\users\carlos\documents\visual studio 2015\Projects\WorkShopCSharp\WorkShopCSharp\bin\Debug\WorkShopCSharp.exe.config
+c:\users\carlos\documents\visual studio 2015\Projects\WorkShopCSharp\WorkShopCSharp\bin\Debug\WorkShopCSharp.exe
+c:\users\carlos\documents\visual studio 2015\Projects\WorkShopCSharp\WorkShopCSharp\bin\Debug\WorkShopCSharp.pdb
+c:\users\carlos\documents\visual studio 2015\Projects\WorkShopCSharp\WorkShopCSharp\obj\Debug\WorkShopCSharp.csprojResolveAssemblyReference.cache
+c:\users\carlos\documents\visual studio 2015\Projects\WorkShopCSharp\WorkShopCSharp\obj\Debug\WorkShopCSharp.Form1.resources
+c:\users\carlos\documents\visual studio 2015\Projects\WorkShopCSharp\WorkShopCSharp\obj\Debug\WorkShopCSharp.Pago.resources
+c:\users\carlos\documents\visual studio 2015\Projects\WorkShopCSharp\WorkShopCSharp\obj\Debug\WorkShopCSharp.Properties.Resources.resources
+c:\users\carlos\documents\visual studio 2015\Projects\WorkShopCSharp\WorkShopCSharp\obj\Debug\WorkShopCSharp.csproj.GenerateResource.Cache
+c:\users\carlos\documents\visual studio 2015\Projects\WorkShopCSharp\WorkShopCSharp\obj\Debug\WorkShopCSharp.exe
+c:\users\carlos\documents\visual studio 2015\Projects\WorkShopCSharp\WorkShopCSharp\obj\Debug\WorkShopCSharp.pdb
